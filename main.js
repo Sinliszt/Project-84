@@ -55,28 +55,28 @@ function my_keydown(e)
 
 function aplhabetkey()
 {
-	img_image = "https://sinliszt.github.io/Project-84/alpkey.png";
+	img_img = "alpkey.png";
 	add();
 
 }
 function numberkey()
 {
-	img_image = "https://sinliszt.github.io/Project-84/numkey.png";
+	img_img = "numkey.png";
 	add();
 }
 function arrowkey()
 {
-	img_image = "https://sinliszt.github.io/Project-84/Arrkey.png";
+	img_img = "Arrkey.png";
 	add();
 }
 function specialkey()
 {
-	img_image = "https://sinliszt.github.io/Project-84/spkey.png"
+	img_img = "spkey.png"
 	add();
 }
 function otherkey()
 {
-	img_image="https://sinliszt.github.io/Project-84/otherkey.png";
+	img_img ="otherkey.png";
 	add();
 }
 	
