@@ -55,18 +55,18 @@ function my_keydown(e)
 
 function aplhabetkey()
 {
-	img_image = 'alpkey.png';
+	img_image = "alpkey.png";
 	add();
 
 }
 function numberkey()
 {
-	img_image = 'numkey.png';
+	img_image = "numkey.png";
 	add();
 }
 function arrowkey()
 {
-	img_image = 'Arrkey.png';
+	img_image = "Arrkey.png";
 	add();
 }
 function specialkey()
