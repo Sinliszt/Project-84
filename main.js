@@ -55,27 +55,27 @@ function my_keydown(e)
 
 function alphabetkey()
 {
-	img_img = "Alpkey.png";
+	img_image = "Alpkey.png";
 	add();
 }
 function numberkey()
 {
-	img_img = "numkey.png";
+	img_image = "numkey.png";
 	add();
 }
 function arrowkey()
 {
-	img_img = "Arrkey.png";
+	img_image = "Arrkey.png";
 	add();
 }
 function specialkey()
 {
-	img_img = "spkey.png"
+	img_image = "spkey.png"
 	add();
 }
 function otherkey()
 {
-	img_img ="otherkey.png";
+	img_image ="otherkey.png";
 	add();
 }
 	
