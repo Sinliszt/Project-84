@@ -55,7 +55,7 @@ function my_keydown(e)
 
 function aplhabetkey()
 {
-	img_img = "alpkey.png";
+	img_img = "Alpkey.png";
 	add();
 
 }
